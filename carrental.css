@@ -1,0 +1,31 @@
+body{ background-color:#03f0e8}
+
+form { padding: 2em; }
+td, th { padding: 0px;
+		 border-style: none; }
+nav a:link { color: #000000; }
+nav a:visited { color: #563cff; }
+nav a:hover { color: #CC9933; }
+
+nav { font-weight: bold;
+	  text-align: center;
+	  font-size: 1.75em; 
+	  padding-top: 10px; 
+	  float: left; 
+	  width: 800px; }
+
+
+main { padding: 0px 0px 2em 0px;
+	   margin-left: 200px;
+	   font-color: #221811;
+	}
+	
+	footer {
+		 font-size: .90em; 
+		 font-style: italic;
+		 text-align: center;
+		 padding-bottom: 10px; 
+		 border: 2px solid #221811; 
+		}
+p {
+	font-size: 2em; 
